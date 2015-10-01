@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;;;;;AACA,UAAW;EACT,KAAK,EAAE,IAAI;EACX,MAAM,ECiBS,KAAK;EDhBpB,WAAW,ECgBI,KAAK;EDfpB,UAAU,EAAE,MAAM;EAClB,UAAU,ECec,GAAG",
+"sources": ["../sass/signature.scss","../sass/varibles.scss"],
+"names": [],
+"file": "signature.css"
+}

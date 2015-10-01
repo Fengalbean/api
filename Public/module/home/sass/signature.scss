@@ -1,0 +1,8 @@
+@import "varibles";
+.signature {
+  width: 100%;
+  height: $signatureHeight;
+  line-height: $signatureHeight;
+  text-align: center;
+  background: $signatureBackgroundColor;
+}

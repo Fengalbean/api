@@ -1,0 +1,14 @@
+/**
+ * Created by freddy.
+ * Usage: Global variables in order to unified change
+ * Date: 2015/10/2
+ * Time: 0:20
+ */
+.signature {
+  width: 100%;
+  height: 110px;
+  line-height: 110px;
+  text-align: center;
+  background: red; }
+
+/*# sourceMappingURL=signature.css.map */
